@@ -1,0 +1,6 @@
+#encoding=UTF-8
+#version=1
+org.eclipse.rap.tools.intro.source,4.0.0.20240621-0906,plugins/org.eclipse.rap.tools.intro.source_4.0.0.20240621-0906.jar,-1,false
+org.eclipse.rap.tools.launch.rwt.source,4.0.0.20240621-0906,plugins/org.eclipse.rap.tools.launch.rwt.source_4.0.0.20240621-0906.jar,-1,false
+org.eclipse.rap.tools.launch.source,4.0.0.20240731-1913,plugins/org.eclipse.rap.tools.launch.source_4.0.0.20240731-1913.jar,-1,false
+org.eclipse.rap.tools.templates.source,4.0.0.20240821-1037,plugins/org.eclipse.rap.tools.templates.source_4.0.0.20240821-1037.jar,-1,false
